@@ -509,4 +509,6 @@ var html = template.render('hi, <%=value%>.', {value: 'aui'});
 
 <img width="256" src="https://cloud.githubusercontent.com/assets/1791748/25306225/7f218e50-27bb-11e7-8dc2-30b2a923e6e9.png" alt="微信支付" />
 
+
+
 如果你因 art-template 受益，不妨请我喝杯咖啡 :-)
